@@ -1,0 +1,3 @@
+[submodule "kinesis-adv-360-pro"]
+	path = kinesis-adv-360-pro
+	url = https://github.com/yigithanbalci/Adv360-Pro-ZMK.git
